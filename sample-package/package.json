@@ -1,0 +1,16 @@
+{
+  "name": "sample-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-native": "0.66.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
